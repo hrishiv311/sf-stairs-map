@@ -75,3 +75,9 @@ npm test
 ```
 
 The importer uses Python's standard library downloads preview images and caches Google Photos preview URLs in `data/photo-previews.json`. Five-star entries receive image previews; other entries retain their original album links. The import checks coordinate bounds and preserves unmapped spreadsheet entries. Source data is bundled during the build; the live site does not automatically follow spreadsheet edits.
+
+<--no-warn-script-location Tested Entire session link -->
+
+<--no-warn-script-location Tested Entire session link -->
+
+<--no-warn-script-location Tested Entire session link -->
